@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Juarez Otoniel Haffermann",
+  "photo": "https://avatars.githubusercontent.com/u/113460778?v=4",
+  "job": "Junior Developer",
+  "location": "Bento Gonçalves - RS",
+  "phone": "(54) 99178-2852",
+  "email": "juarezhaffermann@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -42,37 +42,42 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/juarezhaffermann/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/juarezhaffermann/js-developer-portfolio",
+      "github": true
+    },
+        {
+      "name": "Curso Ministrado na DIO para a criação de uma página de Jogos",
+      "url": "https://github.com/juarezhaffermann/NLW1",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Coordenador de Suporte/ Multi24h Tecnologia em Gestão Pública",
+      "period": "2015 - 2022",
+      "description": "Como Coordenador de Suporte, trabalhei por 3 anos e 3 meses, de março de 2019 a maio de 2022. Durante este período, liderei uma equipe de suporte técnico, oferecendo treinamento e desenvolvimento aos membros da equipe e garantindo a documentação correta dos processos. Almejava a satisfação do cliente e forneci suporte ao cliente de forma eficiente. Também participei na conversão de dados, gestão de pessoas e habilidades analíticas. Possuía habilidades em SQL e gestão de relacionamento com o cliente (CRM), e realizava treinamento de funcionários e gerenciamento de projetos, negociando com eficiência quando necessário.
+
+Antes disso, atuei como suporte técnico por 3 anos e 9 meses, de julho de 2015 a março de 2019. Nesta função, fui responsável por oferecer treinamento e documentação, além de fornecer suporte técnico aos clientes e participar da gestão de projetos, trabalhando em equipe e possuindo conhecimento avançado em PostgreSQL. Além disso, apliquei habilidades de negociação para garantir a satisfação do cliente."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Líder de Equipe/ Transporte Bertolini Ltda",
+      "period": "2013 - 2015",
+      "description": "Como Líder de equipe na Transportes Bertolini, atuei por 1 ano e 8 meses entre 2013 e 2015. Minhas responsabilidades incluíam liderar e dirigir equipes, documentar processos e procedimentos, demonstrar habilidades de liderança, gerenciar questões logísticas, desenvolver as habilidades dos membros da equipe e negociar acordos e soluções."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Operador de Monitoramento/ Transportes Bertolini Ltda",
+      "period": "2012 - 2013",
+      "description": "Como Operador de Monitoramento, trabalhei por 1 ano na Transportes Bertolini, onde desempenhava as competências de gestão de riscos e monitoramento de frotas, além de contribuir com a gestão logística da empresa."
     }
   ]
 }
