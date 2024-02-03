@@ -21,11 +21,11 @@
       },
       {
         "name": "MySQL",
-        "logo": "https://github.com/juarezhaffermann/js-developer-portfolio/blob/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/juarezhaffermann/js-developer-portfolio/main/data/imgs/mysql.png"
       },
       {
         "name": "VSCode",
-        "logo": "https://github.com/juarezhaffermann/js-developer-portfolio/blob/main/data/imgs/vscode.png"
+        "logo": "https://raw.githubusercontent.com/juarezhaffermann/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
         "name": "Postgresql",
