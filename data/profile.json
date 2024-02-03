@@ -21,7 +21,7 @@
       },
       {
         "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/juarezhaffermann/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://github.com/juarezhaffermann/js-developer-portfolio/blob/main/data/imgs/mysql.png"
       },
       {
         "name": "VSCode",
@@ -57,7 +57,7 @@
       "url": "https://github.com/juarezhaffermann/js-developer-portfolio",
       "github": true
     },
-        {
+    {
       "name": "Curso Ministrado na DIO para a criação de uma página de Jogos",
       "url": "https://github.com/juarezhaffermann/NLW1",
       "github": true
@@ -70,16 +70,15 @@
       "description": "Liderei uma equipe de suporte técnico, oferecendo treinamento e desenvolvimento aos membros da equipe e garantindo a documentação correta dos processos.",
       "Atuei diretamente na busca pela satisfação do cliente, fornecendo suporte técnico de forma eficiente.",
       "Participei da conversão de dados, utilizei minhas habilidades em gestão de pessoas e habilidades analíticas.",
-      "Possuía habilidades em SQL e gestão de relacionamento com o cliente (CRM), e realizei treinamento de funcionários e gerenciamento de projetos, negociando com eficiência quando necessário."},
-
-      {
-        "name": "Suporte Técnico/Multi24h Tecnologia em Gestão Pública",
-        "period": "2015 - 2019",
-        "description": "Oferececi treinamento e documentação, além de fornecer suporte técnico aos clientes.",
-        "Participei da gestão de projetos, trabalhando em equipe e com conhecimento avançado em PostgreSQL.",
-        "Apliquei habilidades de negociação para garantir a satisfação do cliente."},
-
-    
+      "Possuía habilidades em SQL e gestão de relacionamento com o cliente (CRM), e realizei treinamento de funcionários e gerenciamento de projetos, negociando com eficiência quando necessário."
+    },
+    {
+      "name": "Suporte Técnico/Multi24h Tecnologia em Gestão Pública",
+      "period": "2015 - 2019",
+      "description": "Oferececi treinamento e documentação, além de fornecer suporte técnico aos clientes.",
+      "Participei da gestão de projetos, trabalhando em equipe e com conhecimento avançado em PostgreSQL.",
+      "Apliquei habilidades de negociação para garantir a satisfação do cliente."
+    },
     {
       "name": "Líder de Equipe/Transporte Bertolini Ltda",
       "period": "2013 - 2015",
