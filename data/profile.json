@@ -8,24 +8,24 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "JS",
+        "logo": "https://raw.githubusercontent.com/juarezhaffermann/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/juarezhaffermann/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/juarezhaffermann/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/juarezhaffermann/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "VSCode",
+        "logo": "https://github.com/juarezhaffermann/js-developer-portfolio/blob/main/data/imgs/vscode.png"
       },
       {
         "name": "Postgresql",
@@ -33,10 +33,12 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Resolução de problemas",
+      "Comunicação",
       "Trabalho em equipe",
-      "Flexibilidade",
+      "Liderança",
+      "Negociação",
+      "Proatividade",
       "Organização"
     ]
   },
@@ -63,18 +65,32 @@
   ],
   "professionalExperience": [
     {
-      "name": "Coordenador de Suporte/ Multi24h Tecnologia em Gestão Pública",
-      "period": "2015 - 2022",
-      "description": "Como Coordenador de Suporte, trabalhei por 3 anos e 3 meses, de março de 2019 a maio de 2022. Durante este período, liderei uma equipe de suporte técnico, oferecendo treinamento e desenvolvimento aos membros da equipe e garantindo a documentação correta dos processos. Almejava a satisfação do cliente e forneci suporte ao cliente de forma eficiente. Também participei na conversão de dados, gestão de pessoas e habilidades analíticas. Possuía habilidades em SQL e gestão de relacionamento com o cliente (CRM), e realizava treinamento de funcionários e gerenciamento de projetos, negociando com eficiência quando necessário."},
+      "name": "Coordenador de Suporte/Multi24h Tecnologia em Gestão Pública",
+      "period": "2019 - 2022",
+      "description": "Liderei uma equipe de suporte técnico, oferecendo treinamento e desenvolvimento aos membros da equipe e garantindo a documentação correta dos processos.\n
+      Atuei diretamente na busca pela satisfação do cliente, fornecendo suporte técnico de forma eficiente.\n
+      Participei da conversão de dados, utilizei minhas habilidades em gestão de pessoas e habilidades analíticas.\n
+      Possuía habilidades em SQL e gestão de relacionamento com o cliente (CRM), e realizei treinamento de funcionários e gerenciamento de projetos, negociando com eficiência quando necessário."},
+
+      {
+        "name": "Suporte Técnico/Multi24h Tecnologia em Gestão Pública",
+        "period": "2015 - 2019",
+        "description": "Oferececi treinamento e documentação, além de fornecer suporte técnico aos clientes.\n
+        Participei da gestão de projetos, trabalhando em equipe e com conhecimento avançado em PostgreSQL.\n
+        Apliquei habilidades de negociação para garantir a satisfação do cliente."},
+
+    
     {
-      "name": "Líder de Equipe/ Transporte Bertolini Ltda",
+      "name": "Líder de Equipe/Transporte Bertolini Ltda",
       "period": "2013 - 2015",
-      "description": "Como Líder de equipe na Transportes Bertolini, atuei por 1 ano e 8 meses entre 2013 e 2015. Minhas responsabilidades incluíam liderar e dirigir equipes, documentar processos e procedimentos, demonstrar habilidades de liderança, gerenciar questões logísticas, desenvolver as habilidades dos membros da equipe e negociar acordos e soluções."
+      "description": "Liderei e dirigi equipes, documentei processos e procedimentos.\n
+      Demonstrei minhas habilidades de liderança, gerenciei questões logísticas e desenvolvi as habilidades dos membros da equipe.\n
+      Negociei acordos e soluções."
     },
     {
-      "name": "Operador de Monitoramento/ Transportes Bertolini Ltda",
+      "name": "Operador de Monitoramento/Transportes Bertolini Ltda",
       "period": "2012 - 2013",
-      "description": "Como Operador de Monitoramento, trabalhei por 1 ano na Transportes Bertolini, onde desempenhava as competências de gestão de riscos e monitoramento de frotas, além de contribuir com a gestão logística da empresa."
+      "description": "Gerenciei riscos e monitorei frotas, contribuindo com a gestão logística da empresa."
     }
   ]
 }
